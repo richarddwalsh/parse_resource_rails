@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
     "spec/spec_helper.rb"
   ]
 
-  s.add_dependency("parse_resource", "github: 'adelevie/parse_resource'")
+  s.add_dependency("parse_resource", "github:adelevie/parse_resource")
   s.add_dependency("rails", ">= 3.0.0")
 
   s.add_development_dependency("rspec")
