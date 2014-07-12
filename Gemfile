@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "parse_resource"
+gem 'parse_resource', github: 'adelevie/parse_resource'
 gem "rails"
 
 group :test do
